@@ -1,0 +1,15 @@
+{
+  "name": "@hatan-harmag/ui",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./button": "./src/button.tsx"
+  },
+  "peerDependencies": {
+    "react": "^19.2.0"
+  },
+  "devDependencies": {
+    "@types/react": "^19.2.0",
+    "typescript": "~6.0.2"
+  }
+}
